@@ -1,0 +1,108 @@
+
+body {
+    background-image: url("../image/bgimage3.png");
+	color: crimson;
+	t
+}
+
+html {
+    box-sizing: border-box;
+}
+
+#container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.deck{
+	height:650px;
+	width: 650px;
+	border: 10px;
+	border-style: solid;
+	/*margin:auto;*/
+	display : flex;
+	flex-wrap: wrap;
+	list-style: none;
+	padding:5px;
+	justify-content: space-around;
+	background-color: whitesmoke;
+	border-radius: 10px;
+}
+
+.card{
+	height: 135px;
+	width: 135px;
+	margin: 10px;	
+	border-style: solid;
+	background-color: brown;
+	border-radius: 15px;
+}
+
+.hide{
+	display: none;
+}
+
+.fa-5x{
+	padding: 20px;
+}
+
+.checked {
+    color: orange;
+}
+
+/*header*/
+
+h1{
+	text-align: center;
+	color: coral;
+}
+
+#leaderBoardBtn{
+	font-size: 2em;
+	font-weight: bold;
+	background-color: black;
+}
+
+#leaderBoardBtn:hover{
+	cursor: pointer;
+	color: yellow;
+}
+
+.fa-5x{
+	color: blanchedalmond;
+}
+
+h3.modal-title, h5#congratsModalLabel.modal-title{
+	margin: auto;
+	color: brown;
+}
+
+.congratsModalContent{
+	background-color: lightyellow;
+}
+
+div.modal-content{
+	background-color: floralwhite;
+}
+
+/*section*/
+
+section{
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#moves,#stopwatch{
+	display: inline-block;
+	padding-right: 20px;
+	padding-bottom: 5px;
+}
+
+/*Image*/
+#gameWon{
+	max-width: 100%;
+	max-height: 100%;
+}
