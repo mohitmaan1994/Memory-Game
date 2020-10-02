@@ -18,5 +18,4 @@ If you finish the game in less than 16 moves, you get 3 stars.
 If you finish the game in less than 21 moves, you get 2 stars.
 If you take 21 moves or more you get only one star.
 
-### GOOD LUCK!!
-
+### GOOD LUCK !!:+1:
