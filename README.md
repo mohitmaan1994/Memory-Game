@@ -5,7 +5,7 @@ Card game in which all of the cards are laid face down on a surface and two card
 ## Step - 2 : Unzip Folder 
 ## Step - 3 : Open the file named "Game"
 
-### How to Play?
+### How to Play:question:
  Memory Game is a game where you need to match pairs of tiles. 
 Playing is very simple - you turn over one tile and then try to find a matching tile.
 There are 16 tiles, 8 pairs.
